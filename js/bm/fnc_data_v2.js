@@ -29,8 +29,8 @@ var int_Colspan = 4;
 var ary_TitleData = [
   "BABYMETAL",
   "METAL RESISTANCE",
-  "Other",
-  "DARK SIDE"
+  "DARK SIDE",
+  "Other"
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
